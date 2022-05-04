@@ -1,0 +1,7 @@
+*COMANDOS GIT:
+
+*git clone
+*git status 
+*git add .
+*git commit -m ""
+*git push
